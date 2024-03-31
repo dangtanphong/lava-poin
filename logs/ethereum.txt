@@ -378,3 +378,4 @@
 {"error":"{\"Error_GUID\":\"6402252916264497485\",\"Error\":\"Failed all retries {GUID:6402252916264497485,error:rpc error: code = Code(3370) desc = relayReceiver is disabled ErrMsg: provider does not pass verification and disabled this interface and spec {relayReceiver:ETH1jsonrpc}: provider does not pass verification and disabled this interface and spec,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0x5ab8c7c41"}
 {"jsonrpc":"2.0","id":1,"result":"0x579537749"}
+{"jsonrpc":"2.0","id":1,"result":"0x4de5f3f12"}
